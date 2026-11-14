@@ -13,7 +13,7 @@
 ## `01 // ABOUT`
 
 ```text
-NAME        Dharsha
+NAME        Dharshan D
 GITHUB      Dharsha-12
 FOCUS       Application development · problem-solving · secure coding
 CURRENTLY   Learning by building real projects
