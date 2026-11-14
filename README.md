@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DHARSHA&fontSize=68&fontAlignY=36&desc=BUILDING%20THOUGHTFUL%20SOFTWARE&descAlignY=58&fontColor=ffffff&color=0:0b1020,50:24245c,100:7c3aed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=DHARSHAN&fontSize=68&fontAlignY=36&desc=BUILDING%20THOUGHTFUL%20SOFTWARE&descAlignY=58&fontColor=ffffff&color=0:0b1020,50:24245c,100:7c3aed" />
 
 <br />
 
-<a href="https://github.com/Dharsha-12"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%C2%B7+TypeScript+%C2%B7+Kotlin;Building+useful+applications+and+learning+every+day.;Software+%C2%B7+Systems+%C2%B7+Security+curiosity" alt="Typing introduction" /></a>
+<a href="https://github.com/Dharsha-12"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%C2%B7+TypeScript+%C2%B7+Kotlin;Maximum+Effort!;Software+%C2%B7+Systems+%C2%B7+Security+curiosity" alt="Typing introduction" /></a>
 
 </div>
 
