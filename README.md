@@ -4,7 +4,7 @@
 
 <br />
 
-<a href="https://github.com/Dharsha-12"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Python+%C2%B7+TypeScript+%C2%B7+Kotlin;Maximum+Effort!;Software+%C2%B7+Systems+%C2%B7+Security+curiosity" alt="Typing introduction" /></a>
+<a href="https://github.com/Dharsha-12"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+%C2%B7+TypeScript+%C2%B7+Kotlin;Maximum+Effort!;Software+%C2%B7+Systems+%C2%B7+Security+curiosity" alt="Typing introduction" /></a>
 
 </div>
 
