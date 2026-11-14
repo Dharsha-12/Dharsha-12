@@ -54,7 +54,7 @@ I enjoy turning everyday problems into practical software—from civic tools and
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dharsha-12&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b1020&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb" alt="Dharsha's GitHub statistics" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Dharsha-12&show_icons=true&hide_border=true&rank_icon=github&bg_color=0b1020&title_color=a78bfa&icon_color=22d3ee&text_color=e5e7eb" alt="Dharsha's GitHub statistics" />
 <img height="165" src="https://streak-stats.demolab.com?user=Dharsha-12&hide_border=true&background=0B1020&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=94A3B8" alt="Dharsha's contribution streak" />
 
 </div>
